@@ -1,4 +1,4 @@
-Visit the app: [https://dickloraine.github.io/xenos-rampant-builder/](https://dickloraine.github.io/xenos-rampant-builder/).
+Visit the app: [https://lajoh20.github.io/eagles-rampant-builder/](https://lajoh20.github.io/eagles-rampant-builder/).
 
 ## About
 
